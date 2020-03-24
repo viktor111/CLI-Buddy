@@ -1,0 +1,7 @@
+CLI-Buddy
+README.md
+setup.py
+CLI_Buddy.egg-info/PKG-INFO
+CLI_Buddy.egg-info/SOURCES.txt
+CLI_Buddy.egg-info/dependency_links.txt
+CLI_Buddy.egg-info/top_level.txt

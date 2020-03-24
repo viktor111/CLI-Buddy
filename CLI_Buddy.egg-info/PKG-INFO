@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: CLI-Buddy
+Version: 0.1
+Summary: Helper tool for making consoles
+Home-page: https://github.com/viktor111/CLI-Buddy.git
+Author: Viktor Draganov
+Author-email: swifrorlilko@gmail.com
+License: UNKNOWN
+Description: # CLI-Buddy
+        Helper tool for making consoles
+        
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
